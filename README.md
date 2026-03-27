@@ -103,4 +103,4 @@ Bot: 📦 Weather 技能配置模板
 
 ---
 
-**项目地址**: github.com/[你的用户名]/openclaw-skill-templates
+**项目地址**: github.com/mini857/openclaw-skill-templates
