@@ -1,0 +1,16 @@
+{
+  "slug": "feishu-message",
+  "name": "Feishu Message",
+  "displayName": "飞书消息",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install feishu-message",
+  "clawhubLink": "https://clawhub.ai/ 搜索 feishu-message",
+  "description": "飞书消息发送与管理",
+  "features": ["发送飞书消息", "群机器人集成", "消息模板", "定时发送"],
+  "examples": [
+    {"command": "feishu send \"会议通知\"", "description": "发送消息"},
+    {"command": "feishu template create", "description": "创建模板"}
+  ],
+  "tags": ["飞书", "消息", "办公协作"]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "humanizer",
+  "name": "Humanizer",
+  "displayName": "文本人性化",
+  "category": "效率工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install humanizer",
+  "clawhubLink": "https://clawhub.ai/ 搜索 humanizer",
+  "description": "去除 AI 写作痕迹",
+  "features": ["AI 文本检测", "自然语言改写", "风格调整", "语法优化"],
+  "examples": [
+    {"command": "humanize \"AI 生成的文本\"", "description": "人性化文本"}
+  ],
+  "tags": ["文本处理", "AI", "写作"]
+}

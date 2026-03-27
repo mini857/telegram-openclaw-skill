@@ -1,0 +1,16 @@
+{
+  "slug": "summarize",
+  "name": "Summarize",
+  "displayName": "内容摘要",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install summarize",
+  "clawhubLink": "https://clawhub.ai/ 搜索 summarize",
+  "description": "URL/PDF/图片/音频内容摘要",
+  "features": ["网页摘要", "PDF 总结", "图片识别", "音频转录", "YouTube 视频摘要"],
+  "examples": [
+    {"command": "summarize https://example.com", "description": "摘要网页"},
+    {"command": "summarize file.pdf", "description": "摘要 PDF"}
+  ],
+  "tags": ["摘要", "AI", "效率工具"]
+}

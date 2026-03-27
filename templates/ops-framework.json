@@ -1,0 +1,16 @@
+{
+  "slug": "ops-framework",
+  "name": "Ops Framework",
+  "displayName": "运维框架",
+  "category": "运维工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install ops-framework",
+  "clawhubLink": "https://clawhub.ai/ 搜索 ops-framework",
+  "description": "0 代币任务 + 监控框架",
+  "features": ["长期运行任务安全执行", "断点续跑", "进度通知", "写入操作默认阻止"],
+  "examples": [
+    {"command": "ops run --task backup", "description": "运行备份任务"},
+    {"command": "ops status", "description": "查看状态"}
+  ],
+  "tags": ["运维", "监控", "自动化"]
+}

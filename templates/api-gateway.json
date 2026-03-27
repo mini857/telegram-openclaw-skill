@@ -1,0 +1,15 @@
+{
+  "slug": "api-gateway",
+  "name": "API Gateway",
+  "displayName": "API 网关",
+  "category": "开发工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install api-gateway",
+  "clawhubLink": "https://clawhub.ai/ 搜索 api-gateway",
+  "description": "连接 100+ API 的网关",
+  "features": ["Google Workspace", "Microsoft 365", "GitHub", "Notion", "Slack", "100+ API"],
+  "examples": [
+    {"command": "api call google calendar", "description": "调用 Google API"}
+  ],
+  "tags": ["API", "集成", "开发工具"]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "nano-banana-pro",
+  "name": "Nano Banana Pro",
+  "displayName": "图像生成",
+  "category": "创意工具",
+  "rating": 4.6,
+  "installCommand": "clawhub install nano-banana-pro",
+  "clawhubLink": "https://clawhub.ai/ 搜索 nano-banana-pro",
+  "description": "Gemini 3 Pro 图像生成/编辑",
+  "features": ["文生图", "图生图", "图像编辑", "1K/2K/4K 分辨率"],
+  "examples": [
+    {"command": "nano-banana generate \"一只猫\"", "description": "生成图像"},
+    {"command": "nano-banana edit --input image.jpg", "description": "编辑图像"}
+  ],
+  "tags": ["图像生成", "AI", "创意工具"]
+}

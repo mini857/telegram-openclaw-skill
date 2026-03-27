@@ -1,0 +1,15 @@
+{
+  "slug": "telegram",
+  "name": "Telegram",
+  "displayName": "Telegram Bot",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install telegram",
+  "clawhubLink": "https://clawhub.ai/ 搜索 telegram",
+  "description": "Telegram Bot API 集成",
+  "features": ["发送消息", "接收消息", "群组管理", "频道管理"],
+  "examples": [
+    {"command": "telegram send \"消息内容\"", "description": "发送消息"}
+  ],
+  "tags": ["Telegram", "消息", "效率工具"]
+}

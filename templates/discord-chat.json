@@ -1,0 +1,15 @@
+{
+  "slug": "discord-chat",
+  "name": "Discord Chat",
+  "displayName": "Discord 聊天",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install discord-chat",
+  "clawhubLink": "https://clawhub.ai/ 搜索 discord-chat",
+  "description": "Discord 聊天集成",
+  "features": ["发送消息", "接收消息", "频道管理", "角色管理"],
+  "examples": [
+    {"command": "discord send \"消息内容\"", "description": "发送消息"}
+  ],
+  "tags": ["Discord", "消息", "效率工具"]
+}

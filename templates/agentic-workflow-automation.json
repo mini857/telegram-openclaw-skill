@@ -1,0 +1,15 @@
+{
+  "slug": "agentic-workflow-automation",
+  "name": "Agentic Workflow Automation",
+  "displayName": "代理工作流自动化",
+  "category": "自动化",
+  "rating": 4.2,
+  "installCommand": "clawhub install agentic-workflow-automation",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agentic-workflow-automation",
+  "description": "AI 代理工作流自动化",
+  "features": ["工作流自动化", "AI 集成", "触发器", "条件分支"],
+  "examples": [
+    {"command": "workflow create \"自动备份\"", "description": "创建工作流"}
+  ],
+  "tags": ["自动化", "工作流", "AI"]
+}

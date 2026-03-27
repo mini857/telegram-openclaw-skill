@@ -1,0 +1,15 @@
+{
+  "slug": "agent-orchestrator",
+  "name": "Agent Orchestrator",
+  "displayName": "代理编排",
+  "category": "AI 助手",
+  "rating": 4.3,
+  "installCommand": "clawhub install agent-orchestrator",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-orchestrator",
+  "description": "AI 代理编排系统",
+  "features": ["代理编排", "工作流管理", "任务调度", "结果汇总"],
+  "examples": [
+    {"command": "orchestrator run workflow", "description": "运行工作流"}
+  ],
+  "tags": ["AI", "编排", "工作流"]
+}

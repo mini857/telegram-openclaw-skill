@@ -1,0 +1,15 @@
+{
+  "slug": "nano-pdf",
+  "name": "Nano Pdf",
+  "displayName": "PDF 编辑",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install nano-pdf",
+  "clawhubLink": "https://clawhub.ai/ 搜索 nano-pdf",
+  "description": "PDF 文件自然语言编辑",
+  "features": ["PDF 编辑", "自然语言指令", "文本提取", "格式转换"],
+  "examples": [
+    {"command": "nano-pdf edit file.pdf \"删除第 3 页\"", "description": "编辑 PDF"}
+  ],
+  "tags": ["PDF", "文档处理", "效率工具"]
+}

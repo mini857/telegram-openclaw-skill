@@ -1,0 +1,15 @@
+{
+  "slug": "agent-training",
+  "name": "Agent Training",
+  "displayName": "代理训练",
+  "category": "AI 助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install agent-training",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-training",
+  "description": "AI 代理训练系统",
+  "features": ["代理训练", "数据集管理", "模型优化", "性能评估"],
+  "examples": [
+    {"command": "agent-train start --dataset my_data", "description": "开始训练"}
+  ],
+  "tags": ["AI", "训练", "机器学习"]
+}

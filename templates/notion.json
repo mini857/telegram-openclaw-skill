@@ -1,0 +1,16 @@
+{
+  "slug": "notion",
+  "name": "Notion",
+  "displayName": "Notion 集成",
+  "category": "效率工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install notion",
+  "clawhubLink": "https://clawhub.ai/ 搜索 notion",
+  "description": "Notion API 集成",
+  "features": ["页面管理", "数据库管理", "块操作", "模板创建"],
+  "examples": [
+    {"command": "notion page create \"会议记录\"", "description": "创建页面"},
+    {"command": "notion database query", "description": "查询数据库"}
+  ],
+  "tags": ["Notion", "笔记", "效率工具"]
+}

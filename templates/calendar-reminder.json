@@ -1,0 +1,16 @@
+{
+  "slug": "calendar-reminder",
+  "name": "Calendar Reminder",
+  "displayName": "日历提醒",
+  "category": "时间管理",
+  "rating": 4.1,
+  "installCommand": "clawhub install calendar-reminder",
+  "clawhubLink": "https://clawhub.ai/ 搜索 calendar-reminder",
+  "description": "日历集成提醒系统",
+  "features": ["日历事件同步", "提前提醒", "重复事件支持", "多日历支持"],
+  "examples": [
+    {"command": "calendar add \"明天会议\" --time 14:00", "description": "添加事件"},
+    {"command": "calendar list --today", "description": "今日事件"}
+  ],
+  "tags": ["日历", "提醒", "时间管理"]
+}

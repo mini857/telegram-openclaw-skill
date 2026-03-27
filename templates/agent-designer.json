@@ -1,0 +1,15 @@
+{
+  "slug": "agent-designer",
+  "name": "Agent Designer",
+  "displayName": "代理设计器",
+  "category": "AI 助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install agent-designer",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-designer",
+  "description": "AI 代理设计工具",
+  "features": ["代理设计", "可视化配置", "模板库", "导出部署"],
+  "examples": [
+    {"command": "agent-designer create", "description": "设计代理"}
+  ],
+  "tags": ["AI", "设计", "低代码"]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "clawdo",
+  "name": "clawdo",
+  "displayName": "AI 任务管理",
+  "category": "效率工具",
+  "rating": 4.8,
+  "stars": 0,
+  "installs": "500+",
+  "installCommand": "clawhub install clawdo",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawdo",
+  "description": "AI 代理任务管理，自动提议工作",
+  "features": [
+    "AI 代理任务管理",
+    "自动提议工作，人工审批",
+    "SQLite 持久化存储",
+    "支持 heartbeat/cron/对话",
+    "结构化 JSON 输出",
+    " autonomy 级别控制"
+  ],
+  "examples": [
+    {
+      "command": "clawdo add \"完成周报\" --priority high",
+      "description": "添加高优先级任务"
+    },
+    {
+      "command": "clawdo list --status pending",
+      "description": "查看待办任务"
+    },
+    {
+      "command": "clawdo suggest",
+      "description": "AI 提议任务"
+    },
+    {
+      "command": "clawdo complete 123",
+      "description": "完成任务"
+    }
+  ],
+  "configTemplate": {
+    "autonomy_level": 2,
+    "auto_approve_simple": true,
+    "database_path": "~/.clawdo/tasks.db"
+  },
+  "userReview": "这不是普通的 todo list，AI 真的会主动提醒我该做什么。用了两周，效率提升明显。",
+  "lastUpdated": "2026-02-28",
+  "author": "@lepetitpince",
+  "tags": ["任务管理", "AI 助手", "效率工具"]
+}

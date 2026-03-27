@@ -1,0 +1,16 @@
+{
+  "slug": "slack-message",
+  "name": "Slack Message",
+  "displayName": "Slack 消息",
+  "category": "效率工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install slack-message",
+  "clawhubLink": "https://clawhub.ai/ 搜索 slack-message",
+  "description": "Slack 消息发送与管理",
+  "features": ["发送 Slack 消息", "频道管理", "消息线程", "文件分享"],
+  "examples": [
+    {"command": "slack send \"#general 大家好\"", "description": "发送消息"},
+    {"command": "slack list channels", "description": "查看频道"}
+  ],
+  "tags": ["Slack", "消息", "团队协作"]
+}

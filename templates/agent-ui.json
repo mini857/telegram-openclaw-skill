@@ -1,0 +1,15 @@
+{
+  "slug": "agent-ui",
+  "name": "Agent UI",
+  "displayName": "代理界面",
+  "category": "开发工具",
+  "rating": 4.0,
+  "installCommand": "clawhub install agent-ui",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-ui",
+  "description": "AI 代理用户界面",
+  "features": ["UI 组件", "交互设计", "可视化", "主题定制"],
+  "examples": [
+    {"command": "agent-ui create dashboard", "description": "创建界面"}
+  ],
+  "tags": ["UI", "AI", "前端"]
+}

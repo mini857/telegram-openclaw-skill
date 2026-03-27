@@ -1,0 +1,49 @@
+{
+  "slug": "multi-search-engine",
+  "name": "Multi Search Engine",
+  "displayName": "多引擎搜索",
+  "category": "搜索工具",
+  "rating": 4.7,
+  "stars": 446,
+  "installs": "1300+",
+  "installCommand": "clawhub install multi-search-engine",
+  "clawhubLink": "https://clawhub.ai/ 搜索 multi-search-engine",
+  "description": "17 个搜索引擎集成，无需 API",
+  "features": [
+    "集成 17 个搜索引擎",
+    "国内 8 个：百度、搜狗、必应中国等",
+    "全球 9 个：Google、Bing、DuckDuckGo 等",
+    "支持高级搜索运算符",
+    "时间过滤器（小时/天/周/月/年）",
+    "站点搜索（site:example.com）",
+    "隐私保护引擎",
+    "WolframAlpha 知识查询"
+  ],
+  "examples": [
+    {
+      "command": "search --engine baidu \"OpenClaw 教程\"",
+      "description": "百度搜索"
+    },
+    {
+      "command": "search --engine google \"AI best practices\"",
+      "description": "Google 搜索"
+    },
+    {
+      "command": "search --site zhihu.com \"OpenClaw 体验\"",
+      "description": "知乎站内搜索"
+    },
+    {
+      "command": "search --time week \"最新 AI 进展\"",
+      "description": "搜索本周内容"
+    }
+  ],
+  "configTemplate": {
+    "default_engine": "baidu",
+    "results_limit": 10,
+    "safe_search": true
+  },
+  "userReview": "写论文必备神器！可以同时搜中英文资料，还能用 WolframAlpha 查专业数据。最棒的是不用配置 API，装好就能用。",
+  "lastUpdated": "2026-02-25",
+  "author": "@gpyangyoujun",
+  "tags": ["搜索", "研究工具", "效率神器"]
+}

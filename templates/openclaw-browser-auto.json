@@ -1,0 +1,16 @@
+{
+  "slug": "openclaw-browser-auto",
+  "name": "OpenClaw Browser Auto",
+  "displayName": "浏览器自动化",
+  "category": "开发工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install openclaw-browser-auto",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-browser-auto",
+  "description": "浏览器自动化配置",
+  "features": ["页面自动化", "点击/输入", "截图", "数据抓取"],
+  "examples": [
+    {"command": "browser open https://example.com", "description": "打开网页"},
+    {"command": "browser click \"#button\"", "description": "点击按钮"}
+  ],
+  "tags": ["浏览器", "自动化", "开发工具"]
+}

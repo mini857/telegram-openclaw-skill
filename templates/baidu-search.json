@@ -1,0 +1,19 @@
+{
+  "slug": "baidu-search",
+  "name": "Baidu Search",
+  "displayName": "百度搜索",
+  "category": "搜索工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install baidu-search",
+  "clawhubLink": "https://clawhub.ai/ 搜索 baidu-search",
+  "description": "百度 AI 搜索引擎",
+  "features": [
+    "百度 AI 搜索集成",
+    "中文内容检索优化",
+    "无需 API 密钥"
+  ],
+  "examples": [
+    {"command": "baidu-search \"OpenClaw 教程\"", "description": "百度搜索"}
+  ],
+  "tags": ["搜索", "百度", "中文工具"]
+}

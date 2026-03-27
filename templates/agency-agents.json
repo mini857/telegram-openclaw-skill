@@ -1,0 +1,15 @@
+{
+  "slug": "agency-agents",
+  "name": "Agency Agents",
+  "displayName": "代理机构",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install agency-agents",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agency-agents",
+  "description": "AI 代理机构管理",
+  "features": ["代理机构", "客户服务", "自动回复", "工单管理"],
+  "examples": [
+    {"command": "agency setup", "description": "设置代理"}
+  ],
+  "tags": ["AI", "客服", "自动化"]
+}

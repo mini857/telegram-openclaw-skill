@@ -1,0 +1,15 @@
+{
+  "slug": "agents",
+  "name": "Agents",
+  "displayName": "代理集合",
+  "category": "AI 助手",
+  "rating": 3.9,
+  "installCommand": "clawhub install agents",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agents",
+  "description": "AI 代理集合工具",
+  "features": ["多代理管理", "任务分配", "结果汇总", "代理切换"],
+  "examples": [
+    {"command": "agents switch \"assistant\"", "description": "切换代理"}
+  ],
+  "tags": ["AI", "代理", "管理"]
+}

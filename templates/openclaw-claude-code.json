@@ -1,0 +1,15 @@
+{
+  "slug": "openclaw-claude-code",
+  "name": "Claude Code Agent",
+  "displayName": "Claude 代码代理",
+  "category": "开发工具",
+  "rating": 4.7,
+  "installCommand": "clawhub install openclaw-claude-code",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-claude-code",
+  "description": "Claude 代码编写代理",
+  "features": ["代码生成", "代码审查", "Bug 修复", "测试生成"],
+  "examples": [
+    {"command": "claude-code \"写一个 Python 函数\"", "description": "生成代码"}
+  ],
+  "tags": ["代码", "AI", "开发工具"]
+}

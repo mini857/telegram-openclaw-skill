@@ -1,0 +1,15 @@
+{
+  "slug": "agent-earner",
+  "name": "Agent Earner",
+  "displayName": "代理赚钱",
+  "category": "效率工具",
+  "rating": 3.9,
+  "installCommand": "clawhub install agent-earner",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-earner",
+  "description": "AI 代理自主赚钱",
+  "features": ["USDC 赚取", "自动任务", "代币奖励", "收益追踪"],
+  "examples": [
+    {"command": "agent-earner start", "description": "开始赚钱"}
+  ],
+  "tags": ["赚钱", "AI", "加密货币"]
+}

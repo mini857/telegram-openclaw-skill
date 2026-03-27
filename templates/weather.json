@@ -1,0 +1,44 @@
+{
+  "slug": "weather",
+  "name": "Weather",
+  "displayName": "天气查询",
+  "category": "效率工具",
+  "rating": 5.0,
+  "stars": 329,
+  "installs": "3000+",
+  "installCommand": "clawhub install weather",
+  "clawhubLink": "https://clawhub.ai/ 搜索 weather",
+  "description": "全球天气查询，无需 API 密钥",
+  "features": [
+    "全球任意城市天气查询",
+    "当前温度 + 7 天预报",
+    "湿度/风速/降水概率",
+    "空气质量指数 (AQI)",
+    "无需 API 密钥，开箱即用",
+    "支持摄氏度/华氏度切换"
+  ],
+  "examples": [
+    {
+      "command": "weather beijing",
+      "description": "查询北京天气"
+    },
+    {
+      "command": "weather shanghai --days 7",
+      "description": "上海 7 天预报"
+    },
+    {
+      "command": "weather london --unit celsius",
+      "description": "伦敦天气（摄氏度）"
+    }
+  ],
+  "configTemplate": {
+    "default_city": "beijing",
+    "unit": "celsius",
+    "forecast_days": 7,
+    "show_aqi": true
+  },
+  "userReview": "用过最满意的天气技能，不用注册不用配 API，直接说城市名就能查。数据准确，界面也好看。",
+  "lastUpdated": "2026-03-22",
+  "author": "@steipete",
+  "tags": ["天气", "效率工具", "生活助手"]
+}

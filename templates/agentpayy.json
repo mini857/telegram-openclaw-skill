@@ -1,0 +1,15 @@
+{
+  "slug": "agentpayy",
+  "name": "AgentPayy",
+  "displayName": "代理支付",
+  "category": "效率工具",
+  "rating": 4.1,
+  "installCommand": "clawhub install agentpayy",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agentpayy",
+  "description": "AI 代理支付系统",
+  "features": ["USDC 支付", "代币管理", "自动结算", "交易记录"],
+  "examples": [
+    {"command": "agentpayy send 10 USDC", "description": "发送支付"}
+  ],
+  "tags": ["支付", "加密货币", "效率工具"]
+}

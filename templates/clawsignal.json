@@ -1,0 +1,15 @@
+{
+  "slug": "clawsignal",
+  "name": "Clawsignal",
+  "displayName": "信号通知",
+  "category": "效率工具",
+  "rating": 4.0,
+  "installCommand": "clawhub install clawsignal",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawsignal",
+  "description": "事件信号通知系统",
+  "features": ["事件通知", "信号触发", "多通道通知", "自定义规则"],
+  "examples": [
+    {"command": "clawsignal trigger \"event_name\"", "description": "触发信号"}
+  ],
+  "tags": ["通知", "自动化", "效率工具"]
+}

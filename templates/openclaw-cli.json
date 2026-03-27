@@ -1,0 +1,21 @@
+{
+  "slug": "openclaw-cli",
+  "name": "OpenClaw CLI",
+  "displayName": "命令行工具",
+  "category": "开发工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install openclaw-cli",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-cli",
+  "description": "OpenClaw 命令行操作工具",
+  "features": [
+    "网关/节点生命周期管理",
+    "频道登录/消息发送",
+    "系统健康检查",
+    "故障排查"
+  ],
+  "examples": [
+    {"command": "openclaw status", "description": "检查状态"},
+    {"command": "openclaw gateway restart", "description": "重启网关"}
+  ],
+  "tags": ["CLI", "开发工具", "运维"]
+}

@@ -1,0 +1,996 @@
+[
+{
+  "slug": "afrexai-agent-manager",
+  "name": "AfrexAI Agent Manager",
+  "displayName": "AI 代理管理器",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install afrexai-agent-manager",
+  "clawhubLink": "https://clawhub.ai/ 搜索 afrexai-agent-manager",
+  "description": "AI 代理管理工具",
+  "features": ["代理管理", "资源分配", "性能监控", "日志记录"],
+  "examples": [
+    {"command": "afrex-manager list", "description": "查看代理"}
+  ],
+  "tags": ["AI", "管理", "监控"]
+}
+,
+{
+  "slug": "afrexai-business-automation",
+  "name": "AfrexAI Business Automation",
+  "displayName": "商业自动化架构师",
+  "category": "自动化",
+  "rating": 4.1,
+  "installCommand": "clawhub install afrexai-business-automation",
+  "clawhubLink": "https://clawhub.ai/ 搜索 afrexai-business-automation",
+  "description": "商业流程自动化",
+  "features": ["业务流程", "自动化设计", "效率优化", "成本控制"],
+  "examples": [
+    {"command": "afrex-automation analyze", "description": "分析流程"}
+  ],
+  "tags": ["商业", "自动化", "效率"]
+}
+,
+{
+  "slug": "agency-agents",
+  "name": "Agency Agents",
+  "displayName": "代理机构",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install agency-agents",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agency-agents",
+  "description": "AI 代理机构管理",
+  "features": ["代理机构", "客户服务", "自动回复", "工单管理"],
+  "examples": [
+    {"command": "agency setup", "description": "设置代理"}
+  ],
+  "tags": ["AI", "客服", "自动化"]
+}
+,
+{
+  "slug": "agent-autonomy-kit",
+  "name": "Agent Autonomy Kit",
+  "displayName": "AI 代理自主工具包",
+  "category": "AI 助手",
+  "rating": 4.2,
+  "installCommand": "clawhub install agent-autonomy-kit",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-autonomy-kit",
+  "description": "AI 代理自主执行工具包",
+  "features": ["自主任务执行", "决策框架", "工具集成", "安全控制"],
+  "examples": [
+    {"command": "agent run --autonomy level-2", "description": "运行代理"},
+    {"command": "agent status", "description": "查看状态"}
+  ],
+  "tags": ["AI 助手", "自动化", "代理"]
+}
+,
+{
+  "slug": "agent-designer",
+  "name": "Agent Designer",
+  "displayName": "代理设计器",
+  "category": "AI 助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install agent-designer",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-designer",
+  "description": "AI 代理设计工具",
+  "features": ["代理设计", "可视化配置", "模板库", "导出部署"],
+  "examples": [
+    {"command": "agent-designer create", "description": "设计代理"}
+  ],
+  "tags": ["AI", "设计", "低代码"]
+}
+,
+{
+  "slug": "agent-development",
+  "name": "Agent Development",
+  "displayName": "代理开发",
+  "category": "开发工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install agent-development",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-development",
+  "description": "AI 代理开发工具",
+  "features": ["开发框架", "调试工具", "测试套件", "部署工具"],
+  "examples": [
+    {"command": "agent-dev new \"my-agent\"", "description": "创建代理"}
+  ],
+  "tags": ["AI", "开发", "框架"]
+}
+,
+{
+  "slug": "agent-earner",
+  "name": "Agent Earner",
+  "displayName": "代理赚钱",
+  "category": "效率工具",
+  "rating": 3.9,
+  "installCommand": "clawhub install agent-earner",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-earner",
+  "description": "AI 代理自主赚钱",
+  "features": ["USDC 赚取", "自动任务", "代币奖励", "收益追踪"],
+  "examples": [
+    {"command": "agent-earner start", "description": "开始赚钱"}
+  ],
+  "tags": ["赚钱", "AI", "加密货币"]
+}
+,
+{
+  "slug": "agent-orchestrator",
+  "name": "Agent Orchestrator",
+  "displayName": "代理编排",
+  "category": "AI 助手",
+  "rating": 4.3,
+  "installCommand": "clawhub install agent-orchestrator",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-orchestrator",
+  "description": "AI 代理编排系统",
+  "features": ["代理编排", "工作流管理", "任务调度", "结果汇总"],
+  "examples": [
+    {"command": "orchestrator run workflow", "description": "运行工作流"}
+  ],
+  "tags": ["AI", "编排", "工作流"]
+}
+,
+{
+  "slug": "agent-team",
+  "name": "Agent Team",
+  "displayName": "代理团队",
+  "category": "AI 助手",
+  "rating": 4.2,
+  "installCommand": "clawhub install agent-team",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-team",
+  "description": "多 AI 代理协作",
+  "features": ["多代理协作", "任务分配", "结果汇总", "团队管理"],
+  "examples": [
+    {"command": "agent-team create \"开发团队\"", "description": "创建团队"}
+  ],
+  "tags": ["AI", "团队协作", "代理"]
+}
+,
+{
+  "slug": "agent-training",
+  "name": "Agent Training",
+  "displayName": "代理训练",
+  "category": "AI 助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install agent-training",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-training",
+  "description": "AI 代理训练系统",
+  "features": ["代理训练", "数据集管理", "模型优化", "性能评估"],
+  "examples": [
+    {"command": "agent-train start --dataset my_data", "description": "开始训练"}
+  ],
+  "tags": ["AI", "训练", "机器学习"]
+}
+,
+{
+  "slug": "agent-ui",
+  "name": "Agent UI",
+  "displayName": "代理界面",
+  "category": "开发工具",
+  "rating": 4.0,
+  "installCommand": "clawhub install agent-ui",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-ui",
+  "description": "AI 代理用户界面",
+  "features": ["UI 组件", "交互设计", "可视化", "主题定制"],
+  "examples": [
+    {"command": "agent-ui create dashboard", "description": "创建界面"}
+  ],
+  "tags": ["UI", "AI", "前端"]
+}
+,
+{
+  "slug": "agentic-workflow-automation",
+  "name": "Agentic Workflow Automation",
+  "displayName": "代理工作流自动化",
+  "category": "自动化",
+  "rating": 4.2,
+  "installCommand": "clawhub install agentic-workflow-automation",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agentic-workflow-automation",
+  "description": "AI 代理工作流自动化",
+  "features": ["工作流自动化", "AI 集成", "触发器", "条件分支"],
+  "examples": [
+    {"command": "workflow create \"自动备份\"", "description": "创建工作流"}
+  ],
+  "tags": ["自动化", "工作流", "AI"]
+}
+,
+{
+  "slug": "agentpayy",
+  "name": "AgentPayy",
+  "displayName": "代理支付",
+  "category": "效率工具",
+  "rating": 4.1,
+  "installCommand": "clawhub install agentpayy",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agentpayy",
+  "description": "AI 代理支付系统",
+  "features": ["USDC 支付", "代币管理", "自动结算", "交易记录"],
+  "examples": [
+    {"command": "agentpayy send 10 USDC", "description": "发送支付"}
+  ],
+  "tags": ["支付", "加密货币", "效率工具"]
+}
+,
+{
+  "slug": "agents",
+  "name": "Agents",
+  "displayName": "代理集合",
+  "category": "AI 助手",
+  "rating": 3.9,
+  "installCommand": "clawhub install agents",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agents",
+  "description": "AI 代理集合工具",
+  "features": ["多代理管理", "任务分配", "结果汇总", "代理切换"],
+  "examples": [
+    {"command": "agents switch \"assistant\"", "description": "切换代理"}
+  ],
+  "tags": ["AI", "代理", "管理"]
+}
+,
+{
+  "slug": "api-gateway",
+  "name": "API Gateway",
+  "displayName": "API 网关",
+  "category": "开发工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install api-gateway",
+  "clawhubLink": "https://clawhub.ai/ 搜索 api-gateway",
+  "description": "连接 100+ API 的网关",
+  "features": ["Google Workspace", "Microsoft 365", "GitHub", "Notion", "Slack", "100+ API"],
+  "examples": [
+    {"command": "api call google calendar", "description": "调用 Google API"}
+  ],
+  "tags": ["API", "集成", "开发工具"]
+}
+,
+{
+  "slug": "apple-reminders",
+  "name": "Apple Reminders",
+  "displayName": "Apple 提醒事项",
+  "category": "时间管理",
+  "rating": 4.0,
+  "installCommand": "clawhub install apple-reminders",
+  "clawhubLink": "https://clawhub.ai/ 搜索 apple-reminders",
+  "description": "macOS Apple 提醒事项管理",
+  "features": [
+    "Apple 提醒事项集成",
+    "列表/日期筛选",
+    "JSON/纯文本输出",
+    "仅限 macOS"
+  ],
+  "examples": [
+    {"command": "remindctl list --date today", "description": "今日待办"},
+    {"command": "remindctl add \"下午 3 点开会\" --list work", "description": "添加提醒"}
+  ],
+  "tags": ["提醒", "macOS", "Apple"]
+}
+,
+{
+  "slug": "baidu-search",
+  "name": "Baidu Search",
+  "displayName": "百度搜索",
+  "category": "搜索工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install baidu-search",
+  "clawhubLink": "https://clawhub.ai/ 搜索 baidu-search",
+  "description": "百度 AI 搜索引擎",
+  "features": [
+    "百度 AI 搜索集成",
+    "中文内容检索优化",
+    "无需 API 密钥"
+  ],
+  "examples": [
+    {"command": "baidu-search \"OpenClaw 教程\"", "description": "百度搜索"}
+  ],
+  "tags": ["搜索", "百度", "中文工具"]
+}
+,
+{
+  "slug": "calendar-reminder",
+  "name": "Calendar Reminder",
+  "displayName": "日历提醒",
+  "category": "时间管理",
+  "rating": 4.1,
+  "installCommand": "clawhub install calendar-reminder",
+  "clawhubLink": "https://clawhub.ai/ 搜索 calendar-reminder",
+  "description": "日历集成提醒系统",
+  "features": ["日历事件同步", "提前提醒", "重复事件支持", "多日历支持"],
+  "examples": [
+    {"command": "calendar add \"明天会议\" --time 14:00", "description": "添加事件"},
+    {"command": "calendar list --today", "description": "今日事件"}
+  ],
+  "tags": ["日历", "提醒", "时间管理"]
+}
+,
+{
+  "slug": "clawdo-pro",
+  "name": "clawdo Pro",
+  "displayName": "clawdo 专业版",
+  "category": "效率工具",
+  "rating": 4.7,
+  "installCommand": "clawhub install clawdo-pro",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawdo-pro",
+  "description": "clawdo 增强版任务管理",
+  "features": ["高级任务管理", "团队协作", "项目管理", "数据分析"],
+  "examples": [
+    {"command": "clawdo-pro project create \"新项目\"", "description": "创建项目"}
+  ],
+  "tags": ["任务管理", "效率工具", "团队协作"]
+}
+,
+{
+  "slug": "clawdo",
+  "name": "clawdo",
+  "displayName": "AI 任务管理",
+  "category": "效率工具",
+  "rating": 4.8,
+  "stars": 0,
+  "installs": "500+",
+  "installCommand": "clawhub install clawdo",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawdo",
+  "description": "AI 代理任务管理，自动提议工作",
+  "features": [
+    "AI 代理任务管理",
+    "自动提议工作，人工审批",
+    "SQLite 持久化存储",
+    "支持 heartbeat/cron/对话",
+    "结构化 JSON 输出",
+    " autonomy 级别控制"
+  ],
+  "examples": [
+    {
+      "command": "clawdo add \"完成周报\" --priority high",
+      "description": "添加高优先级任务"
+    },
+    {
+      "command": "clawdo list --status pending",
+      "description": "查看待办任务"
+    },
+    {
+      "command": "clawdo suggest",
+      "description": "AI 提议任务"
+    },
+    {
+      "command": "clawdo complete 123",
+      "description": "完成任务"
+    }
+  ],
+  "configTemplate": {
+    "autonomy_level": 2,
+    "auto_approve_simple": true,
+    "database_path": "~/.clawdo/tasks.db"
+  },
+  "userReview": "这不是普通的 todo list，AI 真的会主动提醒我该做什么。用了两周，效率提升明显。",
+  "lastUpdated": "2026-02-28",
+  "author": "@lepetitpince",
+  "tags": ["任务管理", "AI 助手", "效率工具"]
+}
+,
+{
+  "slug": "clawic-hub",
+  "name": "Clawic Hub",
+  "displayName": "Clawic 中心",
+  "category": "效率工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install clawic-hub",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawic-hub",
+  "description": "Clawic 技能中心",
+  "features": ["技能发现", "技能管理", "更新通知", "社区分享"],
+  "examples": [
+    {"command": "clawic search \"weather\"", "description": "搜索技能"}
+  ],
+  "tags": ["技能管理", "效率工具"]
+}
+,
+{
+  "slug": "clawsignal",
+  "name": "Clawsignal",
+  "displayName": "信号通知",
+  "category": "效率工具",
+  "rating": 4.0,
+  "installCommand": "clawhub install clawsignal",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawsignal",
+  "description": "事件信号通知系统",
+  "features": ["事件通知", "信号触发", "多通道通知", "自定义规则"],
+  "examples": [
+    {"command": "clawsignal trigger \"event_name\"", "description": "触发信号"}
+  ],
+  "tags": ["通知", "自动化", "效率工具"]
+}
+,
+{
+  "slug": "cron-helper",
+  "name": "Cron Helper",
+  "displayName": "Cron 助手",
+  "category": "开发工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install cron-helper",
+  "clawhubLink": "https://clawhub.ai/ 搜索 cron-helper",
+  "description": "Cron 表达式生成与解析",
+  "features": [
+    "自然语言转 cron 表达式",
+    "cron 表达式解析",
+    "定时任务管理",
+    "任务执行日志"
+  ],
+  "examples": [
+    {"command": "cron-helper generate \"每天上午 10 点\"", "description": "生成 cron"},
+    {"command": "cron-helper parse \"0 10 * * *\"", "description": "解析 cron"}
+  ],
+  "tags": ["cron", "定时任务", "开发工具"]
+}
+,
+{
+  "slug": "cron-mastery",
+  "name": "Cron Mastery",
+  "displayName": "定时系统精通",
+  "category": "开发工具",
+  "rating": 4.9,
+  "stars": 0,
+  "installs": "200+",
+  "installCommand": "clawhub install cron-mastery",
+  "clawhubLink": "https://clawhub.ai/ 搜索 cron-mastery",
+  "description": "OpenClaw 定时系统最佳实践",
+  "features": [
+    "定时系统教程",
+    "可靠提醒设置",
+    "定期维护任务 (janitor jobs)",
+    "Cron 最佳实践指南",
+    "故障排查工具",
+    "执行监控"
+  ],
+  "examples": [
+    {
+      "command": "cron-mastery learn --level beginner",
+      "description": "学习 cron 基础"
+    },
+    {
+      "command": "cron-mastery reminder \"每日备份\" --time \"0 2 * * *\"",
+      "description": "设置可靠提醒"
+    },
+    {
+      "command": "cron-mastery janitor --task cleanup --frequency weekly",
+      "description": "设置维护任务"
+    }
+  ],
+  "configTemplate": {
+    "timezone": "Asia/Shanghai",
+    "log_level": "info",
+    "checkpoint_enabled": true
+  },
+  "userReview": "定时任务管理的天花板！不仅教你怎么用，还告诉你为什么这么用。",
+  "lastUpdated": "2026-03-27",
+  "author": "@i-mw",
+  "tags": ["定时任务", "cron", "运维工具"]
+}
+,
+{
+  "slug": "discord-chat",
+  "name": "Discord Chat",
+  "displayName": "Discord 聊天",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install discord-chat",
+  "clawhubLink": "https://clawhub.ai/ 搜索 discord-chat",
+  "description": "Discord 聊天集成",
+  "features": ["发送消息", "接收消息", "频道管理", "角色管理"],
+  "examples": [
+    {"command": "discord send \"消息内容\"", "description": "发送消息"}
+  ],
+  "tags": ["Discord", "消息", "效率工具"]
+}
+,
+{
+  "slug": "feishu-message",
+  "name": "Feishu Message",
+  "displayName": "飞书消息",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install feishu-message",
+  "clawhubLink": "https://clawhub.ai/ 搜索 feishu-message",
+  "description": "飞书消息发送与管理",
+  "features": ["发送飞书消息", "群机器人集成", "消息模板", "定时发送"],
+  "examples": [
+    {"command": "feishu send \"会议通知\"", "description": "发送消息"},
+    {"command": "feishu template create", "description": "创建模板"}
+  ],
+  "tags": ["飞书", "消息", "办公协作"]
+}
+,
+{
+  "slug": "github",
+  "name": "Github",
+  "displayName": "GitHub 集成",
+  "category": "开发工具",
+  "rating": 4.6,
+  "installCommand": "clawhub install github",
+  "clawhubLink": "https://clawhub.ai/ 搜索 github",
+  "description": "GitHub API 集成",
+  "features": ["Issue 管理", "PR 管理", "CI 运行查询", "高级 API 查询"],
+  "examples": [
+    {"command": "gh issue list", "description": "查看 Issue"},
+    {"command": "gh pr create", "description": "创建 PR"},
+    {"command": "gh run list", "description": "查看 CI 运行"}
+  ],
+  "tags": ["GitHub", "开发工具", "版本控制"]
+}
+,
+{
+  "slug": "gog",
+  "name": "Gog",
+  "displayName": "Google Workspace",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install gog",
+  "clawhubLink": "https://clawhub.ai/ 搜索 gog",
+  "description": "Google Workspace 集成",
+  "features": ["Gmail", "Calendar", "Drive", "Contacts", "Sheets", "Docs"],
+  "examples": [
+    {"command": "gog gmail send \"hello@example.com\"", "description": "发送邮件"},
+    {"command": "gog calendar add \"会议\"", "description": "添加日历事件"}
+  ],
+  "tags": ["Google", "效率工具", "办公"]
+}
+,
+{
+  "slug": "humanizer",
+  "name": "Humanizer",
+  "displayName": "文本人性化",
+  "category": "效率工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install humanizer",
+  "clawhubLink": "https://clawhub.ai/ 搜索 humanizer",
+  "description": "去除 AI 写作痕迹",
+  "features": ["AI 文本检测", "自然语言改写", "风格调整", "语法优化"],
+  "examples": [
+    {"command": "humanize \"AI 生成的文本\"", "description": "人性化文本"}
+  ],
+  "tags": ["文本处理", "AI", "写作"]
+}
+,
+{
+  "slug": "multi-search-engine",
+  "name": "Multi Search Engine",
+  "displayName": "多引擎搜索",
+  "category": "搜索工具",
+  "rating": 4.7,
+  "stars": 446,
+  "installs": "1300+",
+  "installCommand": "clawhub install multi-search-engine",
+  "clawhubLink": "https://clawhub.ai/ 搜索 multi-search-engine",
+  "description": "17 个搜索引擎集成，无需 API",
+  "features": [
+    "集成 17 个搜索引擎",
+    "国内 8 个：百度、搜狗、必应中国等",
+    "全球 9 个：Google、Bing、DuckDuckGo 等",
+    "支持高级搜索运算符",
+    "时间过滤器（小时/天/周/月/年）",
+    "站点搜索（site:example.com）",
+    "隐私保护引擎",
+    "WolframAlpha 知识查询"
+  ],
+  "examples": [
+    {
+      "command": "search --engine baidu \"OpenClaw 教程\"",
+      "description": "百度搜索"
+    },
+    {
+      "command": "search --engine google \"AI best practices\"",
+      "description": "Google 搜索"
+    },
+    {
+      "command": "search --site zhihu.com \"OpenClaw 体验\"",
+      "description": "知乎站内搜索"
+    },
+    {
+      "command": "search --time week \"最新 AI 进展\"",
+      "description": "搜索本周内容"
+    }
+  ],
+  "configTemplate": {
+    "default_engine": "baidu",
+    "results_limit": 10,
+    "safe_search": true
+  },
+  "userReview": "写论文必备神器！可以同时搜中英文资料，还能用 WolframAlpha 查专业数据。最棒的是不用配置 API，装好就能用。",
+  "lastUpdated": "2026-02-25",
+  "author": "@gpyangyoujun",
+  "tags": ["搜索", "研究工具", "效率神器"]
+}
+,
+{
+  "slug": "nano-banana-pro",
+  "name": "Nano Banana Pro",
+  "displayName": "图像生成",
+  "category": "创意工具",
+  "rating": 4.6,
+  "installCommand": "clawhub install nano-banana-pro",
+  "clawhubLink": "https://clawhub.ai/ 搜索 nano-banana-pro",
+  "description": "Gemini 3 Pro 图像生成/编辑",
+  "features": ["文生图", "图生图", "图像编辑", "1K/2K/4K 分辨率"],
+  "examples": [
+    {"command": "nano-banana generate \"一只猫\"", "description": "生成图像"},
+    {"command": "nano-banana edit --input image.jpg", "description": "编辑图像"}
+  ],
+  "tags": ["图像生成", "AI", "创意工具"]
+}
+,
+{
+  "slug": "nano-pdf",
+  "name": "Nano Pdf",
+  "displayName": "PDF 编辑",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install nano-pdf",
+  "clawhubLink": "https://clawhub.ai/ 搜索 nano-pdf",
+  "description": "PDF 文件自然语言编辑",
+  "features": ["PDF 编辑", "自然语言指令", "文本提取", "格式转换"],
+  "examples": [
+    {"command": "nano-pdf edit file.pdf \"删除第 3 页\"", "description": "编辑 PDF"}
+  ],
+  "tags": ["PDF", "文档处理", "效率工具"]
+}
+,
+{
+  "slug": "notion",
+  "name": "Notion",
+  "displayName": "Notion 集成",
+  "category": "效率工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install notion",
+  "clawhubLink": "https://clawhub.ai/ 搜索 notion",
+  "description": "Notion API 集成",
+  "features": ["页面管理", "数据库管理", "块操作", "模板创建"],
+  "examples": [
+    {"command": "notion page create \"会议记录\"", "description": "创建页面"},
+    {"command": "notion database query", "description": "查询数据库"}
+  ],
+  "tags": ["Notion", "笔记", "效率工具"]
+}
+,
+{
+  "slug": "obsidian",
+  "name": "Obsidian",
+  "displayName": "Obsidian 集成",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install obsidian",
+  "clawhubLink": "https://clawhub.ai/ 搜索 obsidian",
+  "description": "Obsidian 笔记集成",
+  "features": ["笔记管理", "双向链接", "图谱查看", "插件支持"],
+  "examples": [
+    {"command": "obsidian note create \"今日总结\"", "description": "创建笔记"},
+    {"command": "obsidian search \"OpenClaw\"", "description": "搜索笔记"}
+  ],
+  "tags": ["Obsidian", "笔记", "知识管理"]
+}
+,
+{
+  "slug": "openclaw-browser-auto",
+  "name": "OpenClaw Browser Auto",
+  "displayName": "浏览器自动化",
+  "category": "开发工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install openclaw-browser-auto",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-browser-auto",
+  "description": "浏览器自动化配置",
+  "features": ["页面自动化", "点击/输入", "截图", "数据抓取"],
+  "examples": [
+    {"command": "browser open https://example.com", "description": "打开网页"},
+    {"command": "browser click \"#button\"", "description": "点击按钮"}
+  ],
+  "tags": ["浏览器", "自动化", "开发工具"]
+}
+,
+{
+  "slug": "openclaw-claude-code",
+  "name": "Claude Code Agent",
+  "displayName": "Claude 代码代理",
+  "category": "开发工具",
+  "rating": 4.7,
+  "installCommand": "clawhub install openclaw-claude-code",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-claude-code",
+  "description": "Claude 代码编写代理",
+  "features": ["代码生成", "代码审查", "Bug 修复", "测试生成"],
+  "examples": [
+    {"command": "claude-code \"写一个 Python 函数\"", "description": "生成代码"}
+  ],
+  "tags": ["代码", "AI", "开发工具"]
+}
+,
+{
+  "slug": "openclaw-claws",
+  "name": "OpenClaw Claws",
+  "displayName": "OpenClaw 爪子",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install openclaw-claws",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-claws",
+  "description": "OpenClaw 扩展工具集",
+  "features": ["工具扩展", "插件管理", "自定义命令", "快捷操作"],
+  "examples": [
+    {"command": "claws list", "description": "查看工具"}
+  ],
+  "tags": ["工具集", "效率工具", "扩展"]
+}
+,
+{
+  "slug": "openclaw-cli",
+  "name": "OpenClaw CLI",
+  "displayName": "命令行工具",
+  "category": "开发工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install openclaw-cli",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-cli",
+  "description": "OpenClaw 命令行操作工具",
+  "features": [
+    "网关/节点生命周期管理",
+    "频道登录/消息发送",
+    "系统健康检查",
+    "故障排查"
+  ],
+  "examples": [
+    {"command": "openclaw status", "description": "检查状态"},
+    {"command": "openclaw gateway restart", "description": "重启网关"}
+  ],
+  "tags": ["CLI", "开发工具", "运维"]
+}
+,
+{
+  "slug": "openclaw-power-ops",
+  "name": "OpenClaw Power Ops",
+  "displayName": "高级运维",
+  "category": "运维工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install openclaw-power-ops",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-power-ops",
+  "description": "OpenClaw 高级运维工具",
+  "features": ["高级监控", "自动化运维", "故障排查", "性能优化"],
+  "examples": [
+    {"command": "power-ops monitor", "description": "监控系统"}
+  ],
+  "tags": ["运维", "监控", "自动化"]
+}
+,
+{
+  "slug": "ops-framework",
+  "name": "Ops Framework",
+  "displayName": "运维框架",
+  "category": "运维工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install ops-framework",
+  "clawhubLink": "https://clawhub.ai/ 搜索 ops-framework",
+  "description": "0 代币任务 + 监控框架",
+  "features": ["长期运行任务安全执行", "断点续跑", "进度通知", "写入操作默认阻止"],
+  "examples": [
+    {"command": "ops run --task backup", "description": "运行备份任务"},
+    {"command": "ops status", "description": "查看状态"}
+  ],
+  "tags": ["运维", "监控", "自动化"]
+}
+,
+{
+  "slug": "productivity-bot",
+  "name": "Productivity Bot",
+  "displayName": "生产力机器人",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install productivity-bot",
+  "clawhubLink": "https://clawhub.ai/ 搜索 productivity-bot",
+  "description": "个人生产力管理与习惯追踪",
+  "features": ["个人生产力管理", "习惯追踪", "目标设定与跟踪", "数据统计分析"],
+  "examples": [
+    {"command": "/track 喝水 8 杯", "description": "追踪喝水"},
+    {"command": "/goal 每日阅读 30 分钟", "description": "设定目标"},
+    {"command": "/habit 早起打卡", "description": "习惯打卡"}
+  ],
+  "tags": ["效率工具", "习惯追踪", "生产力"]
+}
+,
+{
+  "slug": "reminder",
+  "name": "Reminder",
+  "displayName": "智能提醒",
+  "category": "时间管理",
+  "rating": 4.6,
+  "stars": 7,
+  "installs": "80+",
+  "installCommand": "clawhub install reminder",
+  "clawhubLink": "https://clawhub.ai/ 搜索 reminder",
+  "description": "自然语言设置提醒，Telegram 推送",
+  "features": [
+    "自然语言设置提醒事项",
+    "自动创建 cron 定时任务",
+    "Telegram 消息准时推送",
+    "支持重复提醒（每日/每周）",
+    "可查询即将到期事件",
+    "工作区持久化存储"
+  ],
+  "examples": [
+    {
+      "command": "\"提醒我明天下午 3 点开会\"",
+      "description": "设置单次提醒"
+    },
+    {
+      "command": "\"每天晚上 8 点提醒我喝水\"",
+      "description": "设置每日重复提醒"
+    },
+    {
+      "command": "\"下周一上午 9 点提醒交报告\"",
+      "description": "设置下周提醒"
+    }
+  ],
+  "configTemplate": {
+    "timezone": "Asia/Shanghai",
+    "default_repeat": "none",
+    "notification_channel": "telegram"
+  },
+  "userReview": "不用学复杂的 cron 语法，直接说话就行。Telegram 推送很及时，已经替代了我的手机闹钟。",
+  "lastUpdated": "2026-02-26",
+  "author": "@reed1898",
+  "tags": ["提醒", "时间管理", "自动化"]
+}
+,
+{
+  "slug": "slack-message",
+  "name": "Slack Message",
+  "displayName": "Slack 消息",
+  "category": "效率工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install slack-message",
+  "clawhubLink": "https://clawhub.ai/ 搜索 slack-message",
+  "description": "Slack 消息发送与管理",
+  "features": ["发送 Slack 消息", "频道管理", "消息线程", "文件分享"],
+  "examples": [
+    {"command": "slack send \"#general 大家好\"", "description": "发送消息"},
+    {"command": "slack list channels", "description": "查看频道"}
+  ],
+  "tags": ["Slack", "消息", "团队协作"]
+}
+,
+{
+  "slug": "sonoscli",
+  "name": "Sonoscli",
+  "displayName": "Sonos 音响控制",
+  "category": "生活助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install sonoscli",
+  "clawhubLink": "https://clawhub.ai/ 搜索 sonoscli",
+  "description": "Sonos 音响控制 CLI",
+  "features": ["发现设备", "播放控制", "音量调节", "分组管理"],
+  "examples": [
+    {"command": "sonos play", "description": "播放音乐"},
+    {"command": "sonos volume 50", "description": "设置音量"}
+  ],
+  "tags": ["Sonos", "智能家居", "生活助手"]
+}
+,
+{
+  "slug": "sub-agent-factory",
+  "name": "Sub Agent Factory",
+  "displayName": "子代理工厂",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install sub-agent-factory",
+  "clawhubLink": "https://clawhub.ai/ 搜索 sub-agent-factory",
+  "description": "子代理生成工厂",
+  "features": ["子代理生成", "任务分解", "结果聚合", "资源管理"],
+  "examples": [
+    {"command": "sub-agent create \"研究助手\"", "description": "创建子代理"}
+  ],
+  "tags": ["AI", "代理", "自动化"]
+}
+,
+{
+  "slug": "summarize",
+  "name": "Summarize",
+  "displayName": "内容摘要",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install summarize",
+  "clawhubLink": "https://clawhub.ai/ 搜索 summarize",
+  "description": "URL/PDF/图片/音频内容摘要",
+  "features": ["网页摘要", "PDF 总结", "图片识别", "音频转录", "YouTube 视频摘要"],
+  "examples": [
+    {"command": "summarize https://example.com", "description": "摘要网页"},
+    {"command": "summarize file.pdf", "description": "摘要 PDF"}
+  ],
+  "tags": ["摘要", "AI", "效率工具"]
+}
+,
+{
+  "slug": "telegram",
+  "name": "Telegram",
+  "displayName": "Telegram Bot",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install telegram",
+  "clawhubLink": "https://clawhub.ai/ 搜索 telegram",
+  "description": "Telegram Bot API 集成",
+  "features": ["发送消息", "接收消息", "群组管理", "频道管理"],
+  "examples": [
+    {"command": "telegram send \"消息内容\"", "description": "发送消息"}
+  ],
+  "tags": ["Telegram", "消息", "效率工具"]
+}
+,
+{
+  "slug": "todoist",
+  "name": "Todoist",
+  "displayName": "Todoist 集成",
+  "category": "任务管理",
+  "rating": 4.4,
+  "installCommand": "clawhub install todoist",
+  "clawhubLink": "https://clawhub.ai/ 搜索 todoist",
+  "description": "Todoist 任务管理集成",
+  "features": [
+    "Todoist 官方 API 集成",
+    "自然语言输入",
+    "多平台同步",
+    "项目/标签/优先级支持"
+  ],
+  "examples": [
+    {"command": "/add 明天下午 3 点开会 @工作 #重要", "description": "添加任务"},
+    {"command": "/list", "description": "查看任务"}
+  ],
+  "tags": ["任务管理", "Todoist", "效率工具"]
+}
+,
+{
+  "slug": "weather-pollen",
+  "name": "Weather Pollen",
+  "displayName": "天气花粉",
+  "category": "生活助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install weather-pollen",
+  "clawhubLink": "https://clawhub.ai/ 搜索 weather-pollen",
+  "description": "花粉浓度天气预报",
+  "features": ["花粉浓度查询", "过敏预警", "7 天预报", "多城市支持"],
+  "examples": [
+    {"command": "weather-pollen beijing", "description": "北京花粉浓度"}
+  ],
+  "tags": ["天气", "健康", "生活助手"]
+}
+,
+{
+  "slug": "weather",
+  "name": "Weather",
+  "displayName": "天气查询",
+  "category": "效率工具",
+  "rating": 5.0,
+  "stars": 329,
+  "installs": "3000+",
+  "installCommand": "clawhub install weather",
+  "clawhubLink": "https://clawhub.ai/ 搜索 weather",
+  "description": "全球天气查询，无需 API 密钥",
+  "features": [
+    "全球任意城市天气查询",
+    "当前温度 + 7 天预报",
+    "湿度/风速/降水概率",
+    "空气质量指数 (AQI)",
+    "无需 API 密钥，开箱即用",
+    "支持摄氏度/华氏度切换"
+  ],
+  "examples": [
+    {
+      "command": "weather beijing",
+      "description": "查询北京天气"
+    },
+    {
+      "command": "weather shanghai --days 7",
+      "description": "上海 7 天预报"
+    },
+    {
+      "command": "weather london --unit celsius",
+      "description": "伦敦天气（摄氏度）"
+    }
+  ],
+  "configTemplate": {
+    "default_city": "beijing",
+    "unit": "celsius",
+    "forecast_days": 7,
+    "show_aqi": true
+  },
+  "userReview": "用过最满意的天气技能，不用注册不用配 API，直接说城市名就能查。数据准确，界面也好看。",
+  "lastUpdated": "2026-03-22",
+  "author": "@steipete",
+  "tags": ["天气", "效率工具", "生活助手"]
+}
+]

@@ -1,0 +1,21 @@
+{
+  "slug": "apple-reminders",
+  "name": "Apple Reminders",
+  "displayName": "Apple 提醒事项",
+  "category": "时间管理",
+  "rating": 4.0,
+  "installCommand": "clawhub install apple-reminders",
+  "clawhubLink": "https://clawhub.ai/ 搜索 apple-reminders",
+  "description": "macOS Apple 提醒事项管理",
+  "features": [
+    "Apple 提醒事项集成",
+    "列表/日期筛选",
+    "JSON/纯文本输出",
+    "仅限 macOS"
+  ],
+  "examples": [
+    {"command": "remindctl list --date today", "description": "今日待办"},
+    {"command": "remindctl add \"下午 3 点开会\" --list work", "description": "添加提醒"}
+  ],
+  "tags": ["提醒", "macOS", "Apple"]
+}

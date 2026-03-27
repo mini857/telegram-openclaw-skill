@@ -1,0 +1,15 @@
+{
+  "slug": "openclaw-claws",
+  "name": "OpenClaw Claws",
+  "displayName": "OpenClaw 爪子",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install openclaw-claws",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-claws",
+  "description": "OpenClaw 扩展工具集",
+  "features": ["工具扩展", "插件管理", "自定义命令", "快捷操作"],
+  "examples": [
+    {"command": "claws list", "description": "查看工具"}
+  ],
+  "tags": ["工具集", "效率工具", "扩展"]
+}

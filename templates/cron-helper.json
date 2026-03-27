@@ -1,0 +1,21 @@
+{
+  "slug": "cron-helper",
+  "name": "Cron Helper",
+  "displayName": "Cron 助手",
+  "category": "开发工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install cron-helper",
+  "clawhubLink": "https://clawhub.ai/ 搜索 cron-helper",
+  "description": "Cron 表达式生成与解析",
+  "features": [
+    "自然语言转 cron 表达式",
+    "cron 表达式解析",
+    "定时任务管理",
+    "任务执行日志"
+  ],
+  "examples": [
+    {"command": "cron-helper generate \"每天上午 10 点\"", "description": "生成 cron"},
+    {"command": "cron-helper parse \"0 10 * * *\"", "description": "解析 cron"}
+  ],
+  "tags": ["cron", "定时任务", "开发工具"]
+}

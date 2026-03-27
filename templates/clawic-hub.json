@@ -1,0 +1,15 @@
+{
+  "slug": "clawic-hub",
+  "name": "Clawic Hub",
+  "displayName": "Clawic 中心",
+  "category": "效率工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install clawic-hub",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawic-hub",
+  "description": "Clawic 技能中心",
+  "features": ["技能发现", "技能管理", "更新通知", "社区分享"],
+  "examples": [
+    {"command": "clawic search \"weather\"", "description": "搜索技能"}
+  ],
+  "tags": ["技能管理", "效率工具"]
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "openclaw-power-ops",
+  "name": "OpenClaw Power Ops",
+  "displayName": "高级运维",
+  "category": "运维工具",
+  "rating": 4.4,
+  "installCommand": "clawhub install openclaw-power-ops",
+  "clawhubLink": "https://clawhub.ai/ 搜索 openclaw-power-ops",
+  "description": "OpenClaw 高级运维工具",
+  "features": ["高级监控", "自动化运维", "故障排查", "性能优化"],
+  "examples": [
+    {"command": "power-ops monitor", "description": "监控系统"}
+  ],
+  "tags": ["运维", "监控", "自动化"]
+}

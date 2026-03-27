@@ -1,0 +1,43 @@
+{
+  "slug": "reminder",
+  "name": "Reminder",
+  "displayName": "智能提醒",
+  "category": "时间管理",
+  "rating": 4.6,
+  "stars": 7,
+  "installs": "80+",
+  "installCommand": "clawhub install reminder",
+  "clawhubLink": "https://clawhub.ai/ 搜索 reminder",
+  "description": "自然语言设置提醒，Telegram 推送",
+  "features": [
+    "自然语言设置提醒事项",
+    "自动创建 cron 定时任务",
+    "Telegram 消息准时推送",
+    "支持重复提醒（每日/每周）",
+    "可查询即将到期事件",
+    "工作区持久化存储"
+  ],
+  "examples": [
+    {
+      "command": "\"提醒我明天下午 3 点开会\"",
+      "description": "设置单次提醒"
+    },
+    {
+      "command": "\"每天晚上 8 点提醒我喝水\"",
+      "description": "设置每日重复提醒"
+    },
+    {
+      "command": "\"下周一上午 9 点提醒交报告\"",
+      "description": "设置下周提醒"
+    }
+  ],
+  "configTemplate": {
+    "timezone": "Asia/Shanghai",
+    "default_repeat": "none",
+    "notification_channel": "telegram"
+  },
+  "userReview": "不用学复杂的 cron 语法，直接说话就行。Telegram 推送很及时，已经替代了我的手机闹钟。",
+  "lastUpdated": "2026-02-26",
+  "author": "@reed1898",
+  "tags": ["提醒", "时间管理", "自动化"]
+}

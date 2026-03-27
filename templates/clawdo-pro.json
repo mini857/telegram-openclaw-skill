@@ -1,0 +1,15 @@
+{
+  "slug": "clawdo-pro",
+  "name": "clawdo Pro",
+  "displayName": "clawdo 专业版",
+  "category": "效率工具",
+  "rating": 4.7,
+  "installCommand": "clawhub install clawdo-pro",
+  "clawhubLink": "https://clawhub.ai/ 搜索 clawdo-pro",
+  "description": "clawdo 增强版任务管理",
+  "features": ["高级任务管理", "团队协作", "项目管理", "数据分析"],
+  "examples": [
+    {"command": "clawdo-pro project create \"新项目\"", "description": "创建项目"}
+  ],
+  "tags": ["任务管理", "效率工具", "团队协作"]
+}

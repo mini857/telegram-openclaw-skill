@@ -1,0 +1,16 @@
+{
+  "slug": "gog",
+  "name": "Gog",
+  "displayName": "Google Workspace",
+  "category": "效率工具",
+  "rating": 4.5,
+  "installCommand": "clawhub install gog",
+  "clawhubLink": "https://clawhub.ai/ 搜索 gog",
+  "description": "Google Workspace 集成",
+  "features": ["Gmail", "Calendar", "Drive", "Contacts", "Sheets", "Docs"],
+  "examples": [
+    {"command": "gog gmail send \"hello@example.com\"", "description": "发送邮件"},
+    {"command": "gog calendar add \"会议\"", "description": "添加日历事件"}
+  ],
+  "tags": ["Google", "效率工具", "办公"]
+}

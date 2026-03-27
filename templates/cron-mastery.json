@@ -1,0 +1,43 @@
+{
+  "slug": "cron-mastery",
+  "name": "Cron Mastery",
+  "displayName": "定时系统精通",
+  "category": "开发工具",
+  "rating": 4.9,
+  "stars": 0,
+  "installs": "200+",
+  "installCommand": "clawhub install cron-mastery",
+  "clawhubLink": "https://clawhub.ai/ 搜索 cron-mastery",
+  "description": "OpenClaw 定时系统最佳实践",
+  "features": [
+    "定时系统教程",
+    "可靠提醒设置",
+    "定期维护任务 (janitor jobs)",
+    "Cron 最佳实践指南",
+    "故障排查工具",
+    "执行监控"
+  ],
+  "examples": [
+    {
+      "command": "cron-mastery learn --level beginner",
+      "description": "学习 cron 基础"
+    },
+    {
+      "command": "cron-mastery reminder \"每日备份\" --time \"0 2 * * *\"",
+      "description": "设置可靠提醒"
+    },
+    {
+      "command": "cron-mastery janitor --task cleanup --frequency weekly",
+      "description": "设置维护任务"
+    }
+  ],
+  "configTemplate": {
+    "timezone": "Asia/Shanghai",
+    "log_level": "info",
+    "checkpoint_enabled": true
+  },
+  "userReview": "定时任务管理的天花板！不仅教你怎么用，还告诉你为什么这么用。",
+  "lastUpdated": "2026-03-27",
+  "author": "@i-mw",
+  "tags": ["定时任务", "cron", "运维工具"]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "todoist",
+  "name": "Todoist",
+  "displayName": "Todoist 集成",
+  "category": "任务管理",
+  "rating": 4.4,
+  "installCommand": "clawhub install todoist",
+  "clawhubLink": "https://clawhub.ai/ 搜索 todoist",
+  "description": "Todoist 任务管理集成",
+  "features": [
+    "Todoist 官方 API 集成",
+    "自然语言输入",
+    "多平台同步",
+    "项目/标签/优先级支持"
+  ],
+  "examples": [
+    {"command": "/add 明天下午 3 点开会 @工作 #重要", "description": "添加任务"},
+    {"command": "/list", "description": "查看任务"}
+  ],
+  "tags": ["任务管理", "Todoist", "效率工具"]
+}

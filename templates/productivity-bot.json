@@ -1,0 +1,17 @@
+{
+  "slug": "productivity-bot",
+  "name": "Productivity Bot",
+  "displayName": "生产力机器人",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install productivity-bot",
+  "clawhubLink": "https://clawhub.ai/ 搜索 productivity-bot",
+  "description": "个人生产力管理与习惯追踪",
+  "features": ["个人生产力管理", "习惯追踪", "目标设定与跟踪", "数据统计分析"],
+  "examples": [
+    {"command": "/track 喝水 8 杯", "description": "追踪喝水"},
+    {"command": "/goal 每日阅读 30 分钟", "description": "设定目标"},
+    {"command": "/habit 早起打卡", "description": "习惯打卡"}
+  ],
+  "tags": ["效率工具", "习惯追踪", "生产力"]
+}

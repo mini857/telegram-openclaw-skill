@@ -1,0 +1,15 @@
+{
+  "slug": "weather-pollen",
+  "name": "Weather Pollen",
+  "displayName": "天气花粉",
+  "category": "生活助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install weather-pollen",
+  "clawhubLink": "https://clawhub.ai/ 搜索 weather-pollen",
+  "description": "花粉浓度天气预报",
+  "features": ["花粉浓度查询", "过敏预警", "7 天预报", "多城市支持"],
+  "examples": [
+    {"command": "weather-pollen beijing", "description": "北京花粉浓度"}
+  ],
+  "tags": ["天气", "健康", "生活助手"]
+}

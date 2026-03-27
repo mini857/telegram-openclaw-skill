@@ -1,0 +1,15 @@
+{
+  "slug": "sub-agent-factory",
+  "name": "Sub Agent Factory",
+  "displayName": "子代理工厂",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install sub-agent-factory",
+  "clawhubLink": "https://clawhub.ai/ 搜索 sub-agent-factory",
+  "description": "子代理生成工厂",
+  "features": ["子代理生成", "任务分解", "结果聚合", "资源管理"],
+  "examples": [
+    {"command": "sub-agent create \"研究助手\"", "description": "创建子代理"}
+  ],
+  "tags": ["AI", "代理", "自动化"]
+}

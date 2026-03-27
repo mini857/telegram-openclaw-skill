@@ -1,0 +1,15 @@
+{
+  "slug": "afrexai-business-automation",
+  "name": "AfrexAI Business Automation",
+  "displayName": "商业自动化架构师",
+  "category": "自动化",
+  "rating": 4.1,
+  "installCommand": "clawhub install afrexai-business-automation",
+  "clawhubLink": "https://clawhub.ai/ 搜索 afrexai-business-automation",
+  "description": "商业流程自动化",
+  "features": ["业务流程", "自动化设计", "效率优化", "成本控制"],
+  "examples": [
+    {"command": "afrex-automation analyze", "description": "分析流程"}
+  ],
+  "tags": ["商业", "自动化", "效率"]
+}

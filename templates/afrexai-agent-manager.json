@@ -1,0 +1,15 @@
+{
+  "slug": "afrexai-agent-manager",
+  "name": "AfrexAI Agent Manager",
+  "displayName": "AI 代理管理器",
+  "category": "AI 助手",
+  "rating": 4.0,
+  "installCommand": "clawhub install afrexai-agent-manager",
+  "clawhubLink": "https://clawhub.ai/ 搜索 afrexai-agent-manager",
+  "description": "AI 代理管理工具",
+  "features": ["代理管理", "资源分配", "性能监控", "日志记录"],
+  "examples": [
+    {"command": "afrex-manager list", "description": "查看代理"}
+  ],
+  "tags": ["AI", "管理", "监控"]
+}

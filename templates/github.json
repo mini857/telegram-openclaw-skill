@@ -1,0 +1,17 @@
+{
+  "slug": "github",
+  "name": "Github",
+  "displayName": "GitHub 集成",
+  "category": "开发工具",
+  "rating": 4.6,
+  "installCommand": "clawhub install github",
+  "clawhubLink": "https://clawhub.ai/ 搜索 github",
+  "description": "GitHub API 集成",
+  "features": ["Issue 管理", "PR 管理", "CI 运行查询", "高级 API 查询"],
+  "examples": [
+    {"command": "gh issue list", "description": "查看 Issue"},
+    {"command": "gh pr create", "description": "创建 PR"},
+    {"command": "gh run list", "description": "查看 CI 运行"}
+  ],
+  "tags": ["GitHub", "开发工具", "版本控制"]
+}

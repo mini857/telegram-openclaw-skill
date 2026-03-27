@@ -1,0 +1,16 @@
+{
+  "slug": "sonoscli",
+  "name": "Sonoscli",
+  "displayName": "Sonos 音响控制",
+  "category": "生活助手",
+  "rating": 4.1,
+  "installCommand": "clawhub install sonoscli",
+  "clawhubLink": "https://clawhub.ai/ 搜索 sonoscli",
+  "description": "Sonos 音响控制 CLI",
+  "features": ["发现设备", "播放控制", "音量调节", "分组管理"],
+  "examples": [
+    {"command": "sonos play", "description": "播放音乐"},
+    {"command": "sonos volume 50", "description": "设置音量"}
+  ],
+  "tags": ["Sonos", "智能家居", "生活助手"]
+}

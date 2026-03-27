@@ -1,0 +1,16 @@
+{
+  "slug": "obsidian",
+  "name": "Obsidian",
+  "displayName": "Obsidian 集成",
+  "category": "效率工具",
+  "rating": 4.3,
+  "installCommand": "clawhub install obsidian",
+  "clawhubLink": "https://clawhub.ai/ 搜索 obsidian",
+  "description": "Obsidian 笔记集成",
+  "features": ["笔记管理", "双向链接", "图谱查看", "插件支持"],
+  "examples": [
+    {"command": "obsidian note create \"今日总结\"", "description": "创建笔记"},
+    {"command": "obsidian search \"OpenClaw\"", "description": "搜索笔记"}
+  ],
+  "tags": ["Obsidian", "笔记", "知识管理"]
+}

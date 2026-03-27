@@ -1,0 +1,16 @@
+{
+  "slug": "agent-autonomy-kit",
+  "name": "Agent Autonomy Kit",
+  "displayName": "AI 代理自主工具包",
+  "category": "AI 助手",
+  "rating": 4.2,
+  "installCommand": "clawhub install agent-autonomy-kit",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-autonomy-kit",
+  "description": "AI 代理自主执行工具包",
+  "features": ["自主任务执行", "决策框架", "工具集成", "安全控制"],
+  "examples": [
+    {"command": "agent run --autonomy level-2", "description": "运行代理"},
+    {"command": "agent status", "description": "查看状态"}
+  ],
+  "tags": ["AI 助手", "自动化", "代理"]
+}

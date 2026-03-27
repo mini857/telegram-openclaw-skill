@@ -1,0 +1,15 @@
+{
+  "slug": "agent-development",
+  "name": "Agent Development",
+  "displayName": "代理开发",
+  "category": "开发工具",
+  "rating": 4.2,
+  "installCommand": "clawhub install agent-development",
+  "clawhubLink": "https://clawhub.ai/ 搜索 agent-development",
+  "description": "AI 代理开发工具",
+  "features": ["开发框架", "调试工具", "测试套件", "部署工具"],
+  "examples": [
+    {"command": "agent-dev new \"my-agent\"", "description": "创建代理"}
+  ],
+  "tags": ["AI", "开发", "框架"]
+}
